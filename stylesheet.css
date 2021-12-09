@@ -3,11 +3,12 @@ body {
     margin: 0;
     /* float: inline-right; */
     /* right: 30%; */
-    color: #fff;
+    /* color: #fff; */
     /* background: #c8c8c8; */
     background-image: url(background.jpg);
     font: 600 16px/18px 'Open Sans', sans-serif
 }
+/* Login CSS */
 .contact-image{
     text-align: center;
 }
